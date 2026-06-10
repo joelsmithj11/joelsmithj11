@@ -7,11 +7,10 @@
 ---
 
 <p align="center">
-📱 +91 90879 44990
 &nbsp;&nbsp;|&nbsp;&nbsp;
 📧 <a href="mailto:joelsmithj11@gmail.com">joelsmithj11@gmail.com</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-📍 Colachel, Kanyakumari
+📍 Nagercoil, Kanyakumari
 </p>
 
 <p align="center">
