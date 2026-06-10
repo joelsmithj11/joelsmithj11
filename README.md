@@ -1,26 +1,19 @@
 # Hi 👋, I'm Joel Smith J
 
 ### 📊 MCA Graduate | Aspiring Data Analyst | Python • SQL • Power BI • Tableau
-
-<p align="center">
-Passionate about transforming data into actionable insights through analytics, visualization, and intelligent solutions.
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-🎓 MCA Graduate from **Bishop Heber College, Tiruchirappalli**
+I'm an MCA Graduate from Bishop Heber College, Tiruchirappalli, with a strong passion for Data Analytics, Business Intelligence, and technology-driven problem solving. I enjoy working with data to uncover insights, build interactive dashboards, and support informed decision-making. My interests extend to Artificial Intelligence and Machine Learning, where I continuously explore innovative ways to apply technology to real-world challenges.
 
-📈 Aspiring Data Analyst with a strong foundation in data analysis, visualization, and insight generation
+Beyond academics and technology, I have actively contributed to student leadership and event management through various roles in the Student Council. I am also passionate about music, creativity, and community engagement, which have helped me develop strong communication, teamwork, and leadership skills.
 
-🐍 Skilled in Python, SQL, Power BI, Tableau, Advanced Excel, and Machine Learning fundamentals
-
-🤖 Interested in Data Analytics, Business Intelligence, Artificial Intelligence, and Data-Driven Decision Making
-
-🎹 Music lover, Pianist, Singer, and Creative Song Writer
-
-🌱 Continuously learning and expanding my knowledge in analytics, visualization, and emerging technologies
+* 🎓 MCA Graduate passionate about Data Analytics, Business Intelligence, and Data-Driven Decision Making
+* 📊 Experienced in Python, SQL, Power BI, Tableau, Data Visualization, and Machine Learning Fundamentals
+* 💼 Data Analytics Intern with hands-on experience in data preprocessing, EDA, and predictive modeling
+* 🚀 Developed AI-powered and analytics-based projects focused on solving real-world problems
+* 🏆 Student Council Leader, Event Organizer, and Music Enthusiast with strong teamwork and leadership abilities
 
 ---
 
