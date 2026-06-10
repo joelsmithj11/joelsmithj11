@@ -17,7 +17,9 @@
 <p align="center">
 🔗 <a href="https://linkedin.com/in/j-joel-smith-13156324b">LinkedIn</a>
 </p>
+
 ---
+
 ## 👨‍💻 About Me
 
 I'm an MCA Graduate from Bishop Heber College, Tiruchirappalli, with a strong passion for Data Analytics, Business Intelligence, and technology-driven problem solving. I enjoy working with data to uncover insights, build interactive dashboards, and support informed decision-making. My interests extend to Artificial Intelligence and Machine Learning, where I continuously explore innovative ways to apply technology to real-world challenges.
