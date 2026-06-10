@@ -10,11 +10,11 @@
 &nbsp;&nbsp;|&nbsp;&nbsp;
 📧 <a href="mailto:joelsmithj11@gmail.com">joelsmithj11@gmail.com</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-📍 Nagercoil, Kanyakumari
+🔗 <a href="https://linkedin.com/in/j-joel-smith-13156324b">LinkedIn</a>
 </p>
 
 <p align="center">
-🔗 <a href="https://linkedin.com/in/j-joel-smith-13156324b">LinkedIn</a>
+  📍 Nagercoil, Kanyakumari
 </p>
 
 ---
