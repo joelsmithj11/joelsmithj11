@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Joe Smith J</h1>
 
-<h3 align="center">📊 MCA Graduate | Aspiring Data Analyst | Python • SQL • Power BI • Tableau</h3>
+<h3 align="center">
+📊 MCA Graduate | Aspiring Data Analyst | Python • SQL • Power BI • Tableau
+</h3>
 
 <p align="center">
-📱 +91 90879 44990
-&nbsp;&nbsp;|&nbsp;&nbsp;
-📧 <a href="mailto:joelsmithj11@gmail.com">joelsmithj11@gmail.com</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
+📱 +91 90879 44990 •
+📧 <a href="mailto:joelsmithj11@gmail.com">joelsmithj11@gmail.com</a> •
 📍 Colachel, Kanyakumari
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/j-joel-smith-13156324b">LinkedIn</a> •
+<a href="https://github.com/joelsmithj11">GitHub</a>
 </p>
 
 <p align="center">
