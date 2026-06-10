@@ -3,12 +3,18 @@
 <h3 align="center">📊 MCA Graduate | Aspiring Data Analyst | Python • SQL • Power BI • Tableau</h3>
 
 <p align="center">
-📧 Email: [joelsmithj11@gmail.com](mailto:joelsmithj11@gmail.com)
-
-🔗 LinkedIn: https://linkedin.com/in/j-joel-smith-13156324b
-
+📱 +91 90879 44990
+&nbsp;&nbsp;|&nbsp;&nbsp;
+📧 <a href="mailto:joelsmithj11@gmail.com">joelsmithj11@gmail.com</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+📍 Colachel, Kanyakumari
 </p>
 
+<p align="center">
+🔗 <a href="https://linkedin.com/in/j-joel-smith-13156324b">LinkedIn</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+🐙 <a href="https://github.com/joelsmithj11">GitHub</a>
+</p>
 ## 👨‍💻 About Me
 
 I'm an MCA Graduate from Bishop Heber College, Tiruchirappalli, with a strong passion for Data Analytics, Business Intelligence, and technology-driven problem solving. I enjoy working with data to uncover insights, build interactive dashboards, and support informed decision-making. My interests extend to Artificial Intelligence and Machine Learning, where I continuously explore innovative ways to apply technology to real-world challenges.
