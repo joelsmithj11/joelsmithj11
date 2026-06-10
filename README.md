@@ -206,16 +206,6 @@ When I'm not working with data, you'll find me:
 
 ---
 
-## 📫 Connect With Me
-
-📧 Email: [joelsmithj11@gmail.com](mailto:joelsmithj11@gmail.com)
-
-🔗 LinkedIn: https://linkedin.com/in/j-joel-smith-13156324b
-
-🐙 GitHub: https://github.com/joelsmithj11
-
----
-
 <p align="center">
 ⭐ Turning Data into Insights and Ideas into Solutions ⭐
 </p>
